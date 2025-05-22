@@ -1,2 +1,4 @@
 .conda
 flan_t5_small_safetensors
+*.safetensors
+distilbart_cnn_safetensors
